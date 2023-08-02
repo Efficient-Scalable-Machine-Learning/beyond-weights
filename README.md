@@ -1,7 +1,7 @@
 # Beyond Weights
 This repository contains an implementation of the paper [Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training](https://arxiv.org/abs/2306.06237).
 
-[These posts](https://sigmoid.social/@anandsubramoney/110819773391545444) provide a short summary of this work.
+[These mastodon posts](https://sigmoid.social/@anandsubramoney/110819773391545444) provide a short summary of this work.
 
 This code is a forked version of the [SLAYER](https://github.com/bamsumit/slayerPytorch) repository with appropriate changes.
 
