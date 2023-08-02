@@ -1,0 +1,33 @@
+name: slayer-dls
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - torchvision
+  - torchaudio
+  - pytorch
+  - pytorch-cuda=11.8
+  - numpy
+  - matplotlib
+  - h5py
+  - pandas
+  - cuda-nvcc=11.8
+  - cuda-cuobjdump=11.8
+  - cuda-compiler=11.8
+  - cuda-nvprune=11.8
+  - cuda-cuxxfilt=11.8
+  - ninja
+  - cuda-toolkit=11.8
+  - cuda-cccl=11.8
+  - cuda-tools=11.8
+  - scikit-learn
+  - pip:
+      - einops
+      - mpmath
+      - pickleshare
+      - pyqt5-sip
+      - pyyaml
+      - qtorch
+prefix: $HOME/miniconda3/envs/slayer-dls
