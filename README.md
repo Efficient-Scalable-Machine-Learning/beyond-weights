@@ -20,7 +20,7 @@ Edoardo W. Grappolini and Anand Subramoney. Beyond weights: Deep learning in spi
 ```bibtex
 @inproceedings{grappolini2023weights,
       title={Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training}, 
-      author={Edoardo W. Grappolini and \dotuline{Anand Subramoney}},
+      author={Edoardo W. Grappolini and Anand Subramoney},
       booktitle = {International Conference on Neuromorphic Systems (ICONS '23), Santa Fe, NM, USA},
       year={2023},
       month = jun,
