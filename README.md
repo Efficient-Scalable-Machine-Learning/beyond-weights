@@ -24,9 +24,6 @@ Edoardo W. Grappolini and Anand Subramoney. Beyond weights: Deep learning in spi
       booktitle = {International Conference on Neuromorphic Systems (ICONS '23), Santa Fe, NM, USA},
       year={2023},
       month = jun,
-      eprint={2306.06237},
-      primaryClass={cs.NE},
-    publisher = {{ACM}},
-    preprint = {https://arxiv.org/abs/2306.06237},
+      publisher = {ACM},
 }
 ```
